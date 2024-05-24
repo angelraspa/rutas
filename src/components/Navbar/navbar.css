@@ -1,0 +1,17 @@
+.navContainer{
+    display: flex;
+    background-color: grey;
+    justify-content: space-evenly;
+}
+
+.navLinks{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.li {
+    padding: 3px;
+    margin-right: 25px;
+}
